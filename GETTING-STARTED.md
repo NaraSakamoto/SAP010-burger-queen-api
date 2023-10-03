@@ -24,7 +24,7 @@ La primera decisión que tenemos que tomar, antes de comenzar a programar, es
 elegir una base de datos. En este proyecto se sugieren 3 opciones: dos de ellas
 _relacionales_ y basadas en SQL, (PostgreSQL y MySQL), y otra _no relacional_
 (MongoDB). Las 3 son excelentes opciones.
-
+npm
 Algunos puntos a tener en cuenta:
 
 * MongoDB es la más _común_ (popular) a día de hoy en el ecosistema de
